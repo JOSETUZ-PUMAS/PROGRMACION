@@ -1,2 +1,0 @@
-# PROGRMACION
-Programando en Haskell
